@@ -102,7 +102,7 @@ Subproject RPMs may be built individually using the following commands:
 * takserver-package:takserver:buildRpm
 
 ## Certificates
-TAK Server uses client and server certificates, TLS and X.509 mutual authentication and for channel encryption. Scripts for generating a private security enclave, including a Certificate Authority (CA), and certs for use by TAK Server and clients are located in /utils/misc/certs.
+TAK Server uses client and server certificates, TLS and X.509 mutual authentication, and for channel encryption. Scripts for generating a private security enclave, including a Certificate Authority (CA), and certs for use by TAK Server and clients are located in /utils/misc/certs.
 
 See the TAK Server configuration guide (docs/TAK_Server_Configuration_Guide.pdf) for additional information about TAK Server's capabilities.
 
